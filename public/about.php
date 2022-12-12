@@ -44,9 +44,10 @@
     <div class="intro about">
         <div class="image" title="Rene Sebastian - foto door Max Kneefel"></div>
         <h1>Over<br />Rene Sebastian</h1>
-        <p>Afgestudeerd aan het Grafisch Lyceym Eindhoven op video en interactiedesign in 2007. Ondertussen meer dan 15 jaar werkzaam in de creatieve industrie. Van enkel camerawerk tot volledige producties, productieassistent tot regie en digitale tot analoge fotografie.</p>
-        <p>In 2014 gestart als freelance videoproducent, heb ik de afgelopen jaren ontzettend veel kunnen leren en groeien. Van eenmans-sets tot producties tot wel 180 personen. Kennis die ik nu meeneem naar toekomstige projecten. Daarnaast heb ik van 2013 t/m 2022 videoproducties en digital concepting verzorgd bij de Nederlandse Ski Vereniging.</p>
+        <p>Na het afstuderen aan het Grafisch Lyceym Eindhoven op video en interactiedesign, ben ik ondertussen meer dan 15 jaar werkzaam in de creatieve industrie. Van enkel camerawerk tot volledige producties, productieassistent tot regie en digitale tot analoge fotografie.</p>
+        <p>In 2014 gestart als deeltijd freelance videoproducent waar ik een breed scala aan producties heb gedraaid. Van eenmans-sets tot producties tot wel 180+ personen. Producties waar ik ontzettend veel kennis en ervaring op heb kunnen doen, welke nu allemaal tot jou beschikking kunnen staan!</p>
         <p>Vanaf 2023 ga ik full-time als freelancer aan de slag en kan niet wachten op alle uitdagingen die de toekomst gaat brengen. Heb je een toffe creatieve uitdaging voor me, of wil je wellicht eens sparren over een heel nieuw idee? Dan moeten we snel eens <a href="/contact" title="Spreek af met Rene Sebastian">een bakkie gaan doen</a> ☕️</p>
+        
         <p>Need more? Ik ben ook te vinden op <a href="https://instagram.com/renesebastian" title="Instagram Rene Sebastian">Instagram</a>, <a href="https://youtube.com/renesebastian" title="Youtube Rene Sebastian">Youtube</a>, <a href="https://www.linkedin.com/in/renesebastian/" titles="Linkedin - Rene Sebastian">Linkedin</a> en <a href="https://github.com/renesebastian" title="Github Rene Sebastian">Github</a>.</p>
     </div>
 </div>
@@ -64,7 +65,12 @@
   </div>
 </div>
 <div class="container">    
-    <h2>Publicaties</h2>
+    <h3>Werkzaamheden</h3>
+    <p><strong>2014 - heden:</strong> Freelance creatief beeldmaker</p>
+    <p><strong>2020 - heden:</strong> Creative Director bij Dutch Drone Gods</p>
+    <p><strong>2013 - 2022:</strong> Videoproducent en digital concepting bij Nederlandse Ski Vereniging</p>
+    <p><strong>2007 - 2013:</strong> Webdeveloper en videoproducent bij Inovamedia</p>
+    <h3>Publicaties</h3>
     <ul>
         <li>
             <strong>Wintersport Magazine #55 -  2022</strong>

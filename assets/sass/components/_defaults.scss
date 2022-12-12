@@ -69,6 +69,33 @@ nav {
             cursor: pointer;
           }
         }
+        &:first-child { 
+          position: absolute;
+          top: -5px;
+          left: 0;
+          padding: 0;
+          a {
+            padding: 20px;
+            img { 
+              width: auto;
+              height: 24px;
+              opacity: 0.3;
+              -webkit-transition: opacity 0.2s ease-in-out;
+              -moz-transition: opacity 0.2s ease-in-out;
+              transition: opacity 0.2s ease-in-out;
+            }
+            &:hover {
+              cursor: pointer;
+              img { 
+                opacity: 1;
+              }
+            }
+          }
+        }
+
+        &:last-child a{
+          color: gray;
+        }
       }
     }
   }

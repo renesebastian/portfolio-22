@@ -76,7 +76,10 @@
 
   &.about .image { 
       background-image: url('https://cdn.renesebastian.com/assets/renesebastian_paaspop.jpg');
-  }  
+  }
+  &.drone .image { 
+    background-image: url('https://cdn.renesebastian.com/assets/renesebastian_drone_page.jpg');
+}    
 }
 
 section h3, section h4{
