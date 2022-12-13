@@ -79,7 +79,13 @@
   }
   &.drone .image { 
     background-image: url('https://cdn.renesebastian.com/assets/renesebastian_drone_page.jpg');
-}    
+  }
+  &.video .image { 
+    background-image: url('https://cdn.renesebastian.com/assets/renesebastian_videos.jpg');
+  }
+  &.photo .image { 
+    background-image: url('https://cdn.renesebastian.com/assets/renesebastian_photo.jpg');
+  }    
 }
 
 section h3, section h4{

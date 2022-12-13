@@ -273,6 +273,10 @@ nav {
     background-image: url("https://cdn.renesebastian.com/assets/renesebastian_paaspop.jpg"); }
   .intro.drone .image {
     background-image: url("https://cdn.renesebastian.com/assets/renesebastian_drone_page.jpg"); }
+  .intro.video .image {
+    background-image: url("https://cdn.renesebastian.com/assets/renesebastian_videos.jpg"); }
+  .intro.photo .image {
+    background-image: url("https://cdn.renesebastian.com/assets/renesebastian_photo.jpg"); }
 
 section h3, section h4 {
   font-size: 21px;
@@ -388,6 +392,26 @@ address dl {
           -webkit-transition: background 200ms linear;
           -ms-transition: background 200ms linear;
           transition: background 200ms linear; }
+  .highlights.videos .highlight {
+    padding: 0 12px 1.6rem; }
+    .highlights.videos .highlight .img {
+      aspect-ratio: 16/9;
+      overflow: hidden; }
+      .highlights.videos .highlight .img .title {
+        aspect-ratio: 16/9;
+        background: rgba(52, 50, 45, 0.25); }
+        .highlights.videos .highlight .img .title:hover {
+          background: rgba(0, 0, 0, 0.3); }
+  .highlights.photos .highlight {
+    padding: 0 12px 1.6rem; }
+    .highlights.photos .highlight .img {
+      cursor: pointer; }
+      .highlights.photos .highlight .img .title {
+        cursor: pointer;
+        background: none; }
+        .highlights.photos .highlight .img .title:hover {
+          cursor: pointer;
+          background: none; }
 
 ul.projects {
   display: flex;

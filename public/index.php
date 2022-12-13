@@ -1,17 +1,9 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="nl">
 <head>
-<!-- 
-	So you want to see some coding hu? Thanks for checkin! ✌🏻
-	
-	I'm not the best coder around, but i'll make stuff work how I want to. All stuff also ends up on Github if you want to check that out. 
 
-	I also did tons of UI/UX stuff in the past, if you want to chat about that, you can always reach out. 
-	
-	Cheers! 👊🏻
--->
 <meta charset="UTF-8">
-<title>Rene Sebastian -  Creatief beeldmaker</title>
+<title>Fotografie - Rene Sebastian - Creatief beeldmaker</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="Rene Sebastian werd eerder ingezet als; cameraman, editor, regisseur, opnameleider, dronepiloot, fotograaf of productieassistent." />
 <meta name="keywords" content="Rene Sebastian, rene, sebastian, rene.io, dutch drone gods, ddg, rene dutch drone gods, cameraman, aftermovie, fotograaf" />
@@ -42,6 +34,9 @@
 <meta name="image" content="https://cdn.renesebastian.com/headers/ogimage_renesebastian.jpg">
 <meta property="og:url" content="https://www.renesebastian.nl/">
 
+<!-- language alternates -->
+<link rel="canonical" href="https://www.renesebastian.nl/" /><link rel="alternate" hreflang="nl-nl" href="https://www.renesebastian.nl/" /><link rel="alternate" hreflang="en-en" href="https://www.rene.io/" /> 
+
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/staticmeta.php'; ?>
 </head>
 <body>
@@ -51,7 +46,7 @@
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/highlights.php'; ?>
 
 <div class="container">
-  	<h3>What I've been up to?!</h3>
+  	<h2>What I've been up to?!</h2>
   	<p>Ofcourse highlights cant be all the projects I want to share with you. Over the years I've had tons of cool projects. Whether that be on my own or in collaboration with others. One thing is for sure; I gained tons of experience of work on all of these awesome projects and I cant wait to add tons more!</p>
 	<p>Do you have a great project we could collab on? <a href="mailto: info@renesebastian.nl">Shoot me a message</a> and we'll meet with a good cup of ☕️</p>
 	<?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/sections.php'; ?>

@@ -1,4 +1,4 @@
-<p>Hopelijk heb je kunnen vinden waar je naar zocht, of zag je iets wat je aan stond! Check anders ook de <a href="/over-mij" title="Over Rene Sebastian">over mij</a> pagina. Als je nog vragen hebt over <a href="/videos" title="Videos van Rene Sebastian">videoproducties</a>, <a href="/fotografie" title="Fotografie van Rene Sebastian">fotografie</a> of een andere creatieve uitdaging, neem dan gerust contact met me op!</p>
+<p>Hopelijk heb je kunnen vinden waar je naar zocht, of zag je iets wat je aan stond! Check anders ook de <a href="/over-mij" title="Over Rene Sebastian">over mij</a> pagina. Als je nog vragen hebt over <a href="/videoproductie" title="Videos van Rene Sebastian">videoproducties</a>, <a href="/fotografie" title="Fotografie van Rene Sebastian">fotografie</a> of een andere creatieve uitdaging, neem dan gerust contact met me op!</p>
 <p>Rene.io / Rene Sebastian</p>
 <address class="m-b-3">
   <dl>

@@ -52,6 +52,36 @@
         }
       }
     }
+
+    &.videos .highlight {
+      padding: 0 12px $spacer*2;
+      .img {
+        aspect-ratio: 16/9;
+        overflow: hidden;
+        .title {
+          aspect-ratio: 16/9;
+          background: rgba(52,50,45,0.25);  
+          &:hover {
+            background: rgba(0,0,0,0.3);  
+          }  
+        }
+      }
+    }
+
+    &.photos .highlight {
+      padding: 0 12px $spacer*2;
+      .img {
+        cursor: pointer;
+        .title {
+          cursor: pointer;
+          background: none;  
+          &:hover {
+            cursor: pointer;
+            background: none;
+          }  
+        }
+      }
+    }
 }
 
 ul.projects{
