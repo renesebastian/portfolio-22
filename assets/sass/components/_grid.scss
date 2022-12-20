@@ -85,6 +85,9 @@
   }
   &.photo .image { 
     background-image: url('https://cdn.renesebastian.com/assets/renesebastian_photo.jpg');
+  }
+  &.notfound .image { 
+    background-image: url('https://media.giphy.com/media/cwTtbmUwzPqx2/giphy.gif');
   }    
 }
 

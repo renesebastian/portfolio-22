@@ -277,6 +277,8 @@ nav {
     background-image: url("https://cdn.renesebastian.com/assets/renesebastian_videos.jpg"); }
   .intro.photo .image {
     background-image: url("https://cdn.renesebastian.com/assets/renesebastian_photo.jpg"); }
+  .intro.notfound .image {
+    background-image: url("https://media.giphy.com/media/cwTtbmUwzPqx2/giphy.gif"); }
 
 section h3, section h4 {
   font-size: 21px;

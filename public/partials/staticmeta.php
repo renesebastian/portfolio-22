@@ -15,7 +15,7 @@
 <meta name="theme-color" content="#ffffff">
 
 <!-- css -->
-<link rel="stylesheet" type="text/css" href="/assets/reneio.css">
+<link rel="stylesheet" type="text/css" href="//cdn.renesebastian.com/assets/css/reneio-4c25a2b5.css">
 
 <!-- okay i admit, i want some insights too -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-40623174-2"></script>
