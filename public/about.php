@@ -48,7 +48,7 @@
         <p>In 2014 gestart als deeltijd freelance videoproducent waar ik een breed scala aan producties heb gedraaid. Van eenmans-sets tot producties tot wel 180+ personen. Producties waar ik ontzettend veel kennis en ervaring op heb kunnen doen, welke nu allemaal tot jou beschikking kunnen staan!</p>
         <p>Vanaf 2023 ga ik full-time als freelancer aan de slag en kan niet wachten op alle uitdagingen die de toekomst gaat brengen. Heb je een toffe creatieve uitdaging voor me, of wil je wellicht eens sparren over een heel nieuw idee? Dan moeten we snel eens <a href="/contact" title="Spreek af met Rene Sebastian">een bakkie gaan doen</a> ☕️</p>
         
-        <p>Need more? Ik ben ook te vinden op <a href="https://instagram.com/renesebastian" title="Instagram Rene Sebastian">Instagram</a>, <a href="https://youtube.com/renesebastian" title="Youtube Rene Sebastian">Youtube</a>, <a href="https://www.linkedin.com/in/renesebastian/" titles="Linkedin - Rene Sebastian">Linkedin</a> en <a href="https://github.com/renesebastian" title="Github Rene Sebastian">Github</a>.</p>
+        <p>Need more? Ik ben ook te vinden op <a href="https://instagram.com/renesebastian" title="Instagram Rene Sebastian" target="_blank">Instagram</a>, <a href="https://youtube.com/renesebastian" title="Youtube Rene Sebastian" target="_blank">Youtube</a>, <a href="https://www.linkedin.com/in/renesebastian/" titles="Linkedin - Rene Sebastian" target="_blank">Linkedin</a> en <a href="https://github.com/renesebastian" title="Github Rene Sebastian" target="_blank">Github</a>.</p>
     </div>
 </div>
 <div class="container breakout">

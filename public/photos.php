@@ -34,7 +34,7 @@
 <meta property="og:url" content="https://www.renesebastian.nl/fotografie">
 
 <!-- language alternates -->
-<link rel="canonical" href="https://www.renesebastian.nl/fotografie" /><link rel="alternate" hreflang="nl-nl" href="https://www.renesebastian.nl/fotografie" /><link rel="alternate" hreflang="en-en" href="https://www.rene.io/photography" /> 
+<link rel="canonical" href="https://www.renesebastian.nl/fotografie" /><link rel="alternate" hreflang="nl-nl" href="https://www.renesebastian.nl/fotografie" /><link rel="alternate" hreflang="en-en" href="https://www.rene.io/Fotografie" /> 
 
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/staticmeta.php'; ?>
 </head>

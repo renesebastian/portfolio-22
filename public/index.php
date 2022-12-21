@@ -3,7 +3,7 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Fotografie - Rene Sebastian - Creatief beeldmaker</title>
+<title>Rene Sebastian - Creatief beeldmaker</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="Rene Sebastian werd eerder ingezet als; cameraman, editor, regisseur, opnameleider, dronepiloot, fotograaf of productieassistent." />
 <meta name="keywords" content="Rene Sebastian, rene, sebastian, rene.io, dutch drone gods, ddg, rene dutch drone gods, cameraman, aftermovie, fotograaf" />
@@ -46,9 +46,9 @@
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/highlights.php'; ?>
 
 <div class="container">
-  	<h2>What I've been up to?!</h2>
-  	<p>Ofcourse highlights cant be all the projects I want to share with you. Over the years I've had tons of cool projects. Whether that be on my own or in collaboration with others. One thing is for sure; I gained tons of experience of work on all of these awesome projects and I cant wait to add tons more!</p>
-	<p>Do you have a great project we could collab on? <a href="mailto: info@renesebastian.nl">Shoot me a message</a> and we'll meet with a good cup of ☕️</p>
+  	<h2>Producties</h2>
+  	<p>Natuurlijk zijn highlights in een portfolio altijd maar een greep uit al het werk waar ik de afgelopen jaren aan mee heb gewerkt. Er waren er heel veel meer die zeker het vermelden waard zijn. Van volledige eigen producties tot samenwerking met andere productiebureau's, agencies of freelancers. Één ding is zeker; ik heb enorm veel kunnen leren en groeien. Kennis die nu voor jou volgende project inzetbaar is!</p>
+	<p>Heb je ook een tof project waar we kunnen samenwerken? <a href="mailto: info@renesebastian.nl">Laat het me weten</a>!</p>
 	<?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/sections.php'; ?>
 
 	<h4>Contact</h4>
