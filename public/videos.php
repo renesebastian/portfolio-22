@@ -37,6 +37,9 @@
 <link rel="canonical" href="https://www.renesebastian.nl/videoproductie" /><link rel="alternate" hreflang="nl-nl" href="https://www.renesebastian.nl/videoproductie" /><link rel="alternate" hreflang="en-en" href="https://www.rene.io/videoproduction" /> 
 
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/staticmeta.php'; ?>
+<script type="module">
+    import { Player } from "//cdn.mave.io/components@0.0.0/index.js";
+</script>
 </head>
 <body>
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/nav.php'; ?>
@@ -53,65 +56,42 @@
 <div class="container breakout">
   <div class="highlights videos">
     <div class="highlight">
-      <div class="img" title="Showreen Dutch Drone Gods 2021">
-	  	<script src="//js.mave.io/X1rqFZarES"></script>
-      </div>
+      <div class="img" title="Audi Hoonitron - Freefly Wave" x-mave-pop="pqqy4dXSHHaPjeZ" style="background-image: url('//image.mave.io/dXSHHaPjeZ.webp?time=3');"></div>
     </div>
     <div class="highlight">
-      <div class="img" title="Dada - Moeilijk zat">
-	  	<script src="//js.mave.io/vLRdeMjTjY"></script>
-      </div>
+      <div class="img" title="Showreen Dutch Drone Gods 2021" x-mave-pop="pqqy4X1rqFZarES" style="background-image: url('//storage.mave.io/thumbnails/c6b8c040-f3a6-4ba7-9c00-1c15bd447078.jpg');"></div>
     </div>
     <div class="highlight">
-      <div class="img" title="Aftermovie Zomerparkfeest 2019">
-	  	<script src="//js.mave.io/xziwBH9JJU"></script>
-      </div>
+      <div class="img" title="Dada - Moeilijk zat" x-mave-pop="pqqy4vLRdeMjTjY" style="background-image: url('//storage.mave.io/thumbnails/c8140ff9-b235-443b-b977-95a1bb4a928c.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="De winter start in Nederland - Nederlanse Ski Vereniging">
-	  	<script src="//js.mave.io/co63MH78N7"></script>
-      </div>
+    <div class="highlight">
+      <div class="img" title="Aftermovie Zomerparkfeest 2019" x-mave-pop="pqqy4xziwBH9JJU" style="background-image: url('//storage.mave.io/thumbnails/63f2f624-abcd-47b4-9214-d92a0c63e2c1.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="Promo Museum Jan Cunen">
-	  	<script src="//js.mave.io/PZrrywazmx"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="De winter start in Nederland - Nederlanse Ski Vereniging" x-mave-pop="pqqy4co63MH78N7" style="background-image: url('//storage.mave.io/thumbnails/3c446648-8462-43a8-bbd4-2ee24086c225.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="Martix Garrix - We Are Electric">
-	  	<script src="//js.mave.io/x6DT2nkUBR"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="Promo Museum Jan Cunen" x-mave-pop="pqqy4PZrrywazmx" style="background-image: url('//storage.mave.io/thumbnails/24056fb0-b465-4eab-9c9f-2fd742ca284b.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="DeWolff - Double Crossing Man">
-	  	<script src="//js.mave.io/SFvJYYZyfD"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="Martix Garrix - We Are Electric" x-mave-pop="pqqy4x6DT2nkUBR" style="background-image: url('//storage.mave.io/thumbnails/4a53bf46-2ce4-46ab-8732-5916615122e4.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="Paaspop 2017">
-	  	<script src="//js.mave.io/KYYZAGaC9g"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="DeWolff - Double Crossing Man" x-mave-pop="pqqy4SFvJYYZyfD" style="background-image: url('//storage.mave.io/thumbnails/ac4f4335-505a-40c8-8912-bbbe36d909e5.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="Helldorado 2022">
-	  	<script src="//js.mave.io/XD2ae4dwPQ"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="Paaspop 2017" x-mave-pop="pqqy4KYYZAGaC9g" style="background-image: url('//storage.mave.io/thumbnails/339ef1ff-0739-42c7-8318-a18db102cc88.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="We Are Electric Weekender">
-	  	<script src="//js.mave.io/wSb8SnNQ7R"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="Helldorado 2022" x-mave-pop="pqqy4XD2ae4dwPQ" style="background-image: url('//storage.mave.io/thumbnails/8014d3b6-3a47-4ab6-9c48-c388cf75250e.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="Extrema Outdoor">
-	  	<script src="//js.mave.io/yvzGExSjqC"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="We Are Electric Weekender" x-mave-pop="pqqy4wSb8SnNQ7R" style="background-image: url('//storage.mave.io/thumbnails/a2a0c91c-72f5-460e-a36d-be0595870d94.jpg');"></div>
     </div>
-	<div class="highlight">
-      <div class="img" title="Heise Bierfesten">
-	  	<script src="//js.mave.io/PMNSM58il4"></script>
-      </div>
+	  <div class="highlight">
+      <div class="img" title="Extrema Outdoor" x-mave-pop="pqqy4yvzGExSjqC" style="background-image: url('//storage.mave.io/thumbnails/dd09e488-7b85-42a0-85fe-dcda356ee414.jpg');"></div>
     </div>
+	  
   </div>
 </div>
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/footer.php'; ?>

@@ -12,7 +12,7 @@
     </div>
     <div class="highlight">
       <div class="img" style="background-image: url('https://cdn.renesebastian.com/assets/renesebastian_drone.jpg');">
-        <a href="/drone" title="Rene Sebastian Dutch Drone Gods" class="title">Drone gerelated</a>
+        <a href="/drone" title="Rene Sebastian Dutch Drone Gods" class="title">Drone gerelateerd</a>
       </div>
     </div>
   </div>

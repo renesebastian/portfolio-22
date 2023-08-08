@@ -31,14 +31,14 @@
       
       @include respond-to('tablet') {
         max-width: 600px;
-        font-size: 85px;
-        line-height: 100px; 
+        min-height: 375px;
       }
       
       @include respond-to('small') {
         font-size: 60px;
         line-height: inherit;
         margin-bottom: $spacer;
+        min-height: auto;
       }
     }
 

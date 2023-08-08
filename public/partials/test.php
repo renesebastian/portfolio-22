@@ -1,0 +1,7 @@
+<?php
+
+
+
+displayRecords("events", $allRecords);
+
+?>

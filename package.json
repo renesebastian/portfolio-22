@@ -5,11 +5,18 @@
   "main": "public/index.php",
   "author": "Rene Sebastian",
   "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "immutable": "^4.3.0",
+    "is-number": "^7.0.0",
+    "source-map-js": "^1.0.2"
+  },
   "devDependencies": {
-    "node-sass": ""
+    "sass": "^1.61.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "scss": "node-sass --watch assets/sass -o public/assets"
+    "test": "hello world",
+    "sass-dev": "sass --watch --update --style=expanded assets/sass:public/assets",
+    "sass-prod": "sass --no-source-map --style=compressed assets/sass:public/assets"
   }
 }

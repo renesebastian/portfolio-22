@@ -51,7 +51,7 @@
     </div>
 </div>
 <div class="container breakout">
-    <script src="//js.mave.io/X1rqFZarES"></script>
+    <mave-player embed="X1rqFZarES"></script>
 </div>
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/partials/footer.php'; ?>
 </body>
